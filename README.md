@@ -15,8 +15,8 @@ Outside of work, I enjoy exploring topics in Computer Science, English, and Medi
 
 ### 📈 GitHub Stats
 
-![Eris's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriskcn&show_icons=true&theme=github_dark&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriskcn&layout=compact&theme=github_dark)
+![Eris's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriskcn&exclude_repo=esp32hehe&show_icons=true&theme=github_dark&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriskcn&exclude_repo=esp32hehe&layout=compact&theme=github_dark)
 
 ---
 
