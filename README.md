@@ -1,9 +1,12 @@
 ## 👋 Hi there, I'm Eris!
 
-> 🔧 Backend Developer | 🏗️ System Architect | 🌱 Curious Learner
+> 🔧 Backend Developer | 🌱 Curious Learner
 
-Welcome to my GitHub profile! I specialize in backend development and system architecture, with a focus on building scalable and maintainable systems.  
-Outside of work, I enjoy exploring topics in Computer Science, English, and Medical domains—mostly out of curiosity and personal interest.
+Welcome to my GitHub profile! I specialize in backend development with a focus on building scalable and maintainable systems.  
+Outside of work, I enjoy exploring topics in Computer Science, and Medical domains—alongside a strong personal interest in aerospace, astronomy, and military engineering.
+
+
+> *"If compound interest is the eighth wonder of the world, then Dependency Injection must be the ninth."*
 
 ---
 
