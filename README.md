@@ -4,12 +4,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=eriskcn&theme=onedark&row=2&column=4&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📈 GitHub Stats
 
 ![Eris's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriskcn&exclude_repo=esp32hehe&show_icons=true&theme=github_dark&hide_title=true)
