@@ -1,14 +1,6 @@
-## 👋 Hi there, I'm Eris!
+## 👋 Hi there, I'm Eris aka Paulo Dinh!
 
 > *"If compound interest is the eighth wonder of the world, then Dependency Injection must be the ninth."*
-
----
-
-### 📈 GitHub Stats
-
-![Eris's GitHub stats](https://github-readme-stats.vercel.app/api?username=eriskcn&exclude_repo=esp32hehe&show_icons=true&theme=github_dark&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriskcn&exclude_repo=esp32hehe&layout=compact&theme=github_dark)
-
 ---
 
 ### 🔄 Contribution Streak
